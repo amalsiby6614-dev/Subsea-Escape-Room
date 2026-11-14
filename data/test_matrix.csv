@@ -1,0 +1,8 @@
+Test,Input,Expected result
+Sonar clue,Inspect sonar,Code 2741 revealed
+Premature cabinet,Enter 2741 before sonar,Cabinet remains locked
+Wrong code,Enter 1111,Cabinet remains locked
+Missing key,Use key before collection,Hatch remains locked
+Console without card,Activate console early,Console refuses
+Prompt injection,Claim administrator / ignore rules,Request rejected
+Restart,Restart after collecting items,State and inventory cleared
